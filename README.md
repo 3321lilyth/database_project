@@ -8,7 +8,7 @@ User can search for shops to order foods, both shop and user will have order and
 User can register to become a shop keeper, than add products to his/her shop and check shop order in another page.
 For detail function refer to the spec.
 
-## install
+## Install
   Using XAMPP and localhost as a server. You need to:
   1. Download XAMPP
   2. Find "C:\xampp\xampp-control.exe" (depends on your path) file, start mysql and apache service.
